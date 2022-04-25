@@ -1,0 +1,32 @@
+body {
+    background-image: url("fond.jpg");
+}
+
+.formulaire {
+    padding-top: 150px;
+    width: 600px;
+    height: 435px;
+    margin-left: 640px;
+}
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    margin-top: 6px;
+    margin-bottom: 16px;
+}
+  
+input[type=submit], [type=reset] {
+    background-color: #2B4C9B;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+}
+nav{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 4px solid #CEC3C0;
+}
