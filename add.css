@@ -23,10 +23,13 @@ input[type=submit], [type=reset] {
     padding: 12px 20px;
     border: none;
 }
+
 nav{
     display: flex;
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
     border-bottom: 4px solid #CEC3C0;
+    font-family: Arial;
+    font-size: 5px;
 }
